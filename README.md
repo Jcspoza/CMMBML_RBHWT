@@ -8,11 +8,11 @@ Si algun programa no funciona en absoluto o funcioona con mucha lentitud en las 
 
 ## Tabla master resumen
 
-| Link | HW a probar | Detalles - propósito | Conexiones y Notas |
-| ---- | ----------- | -------------------- | ------------------ |
-|      |             |                      |                    |
-|      |             |                      |                    |
-|      |             |                      |                    |
+| Link                                            | HW a probar | Detalles - propósito | Conexiones y Notas |
+| ----------------------------------------------- | ----------- | -------------------- | ------------------ |
+| [Blin nude](source/Rbhwt_Blink_IntLed_vNude.py) |             |                      |                    |
+|                                                 |             |                      |                    |
+|                                                 |             |                      |                    |
 
 ---
 
